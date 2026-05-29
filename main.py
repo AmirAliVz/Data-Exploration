@@ -321,7 +321,7 @@ def scatter_pearson(x, y, c1, c2, verbose=True):
     if not os.path.exists("Figures"):
         os.makedirs("Figures")
 
-    plt.savefig('Figures/' + c1+' vs '+c2 + '.jpg', dpi=300)
+    plt.savefig('Figures/' + c1+'vs'+c2 + '.jpg', dpi=300)
     if verbose:
         plt.show()
     else:
@@ -400,7 +400,7 @@ def two_categorical(x, y, col1, col2, verbose=True):
     if not os.path.exists("Figures"):
         os.makedirs("Figures")
 
-    plt.savefig('Figures/' + col1 + ' vs ' + col2 + '.jpg', dpi=300)
+    plt.savefig('Figures/' + col1 +'vs' + col2 + '.jpg', dpi=300)
     if verbose:
         plt.show()
     else:
@@ -549,7 +549,7 @@ if verbose:
 
     # Display both plots
     plt.tight_layout()
-    plt.savefig('Figures/' + 'Sex' + ' vs ' + 'BMI' + '.jpg', dpi=300)
+    plt.savefig('Figures/' + 'Sex' + 'vs' + 'BMI' + '.jpg', dpi=300)
     plt.show()
 
 

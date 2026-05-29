@@ -33,13 +33,13 @@ Continuous variable pairs are analyzed using Pearson correlation — with automa
 
 | Age vs. BMI | Age vs. Charges | BMI vs. Charges |
 |---|---|---|
-| ![AgevsBmi](Figures/"Age vs Bmi".jpg) | ![AgevsCharges](Figures/"Age vs Charges".jpg) | ![BmivsCharges](Figures/"Bmi vs Charges".jpg) |
+| ![AgevsBmi](Figures/AgevsBmi.jpg) | ![AgevsCharges](Figures/AgevsCharges.jpg) | ![BmivsCharges](Figures/BmivsCharges.jpg) |
 
 Categorical variable pairs are analyzed using cross-tabulation and Chi-Square tests, and visualized with grouped bar charts or heatmaps.
 
 | Sex vs. Smoker | Sex vs. Region |
 |---|---|
-| ![SexvsSmoker](Figures/"Sex vs Smoker".jpg) | ![SexvsRegion](Figures/"Smoker vs Region".jpg) |
+| ![SexvsSmoker](Figures/SexvsSmoker.jpg) | ![SexvsRegion](Figures/SmokervsRegion.jpg) |
 
 ---
 
@@ -52,7 +52,7 @@ Categorical variable pairs are analyzed using cross-tabulation and Chi-Square te
 
 | t-Test Results |
 |---|
-| ![SexvsBmi_category](Figures/"Sex vs Bmi_category".jpg) |
+| ![SexvsBmi_category](Figures/SexvsBmi_category.jpg) |
 
 ---
 
@@ -65,7 +65,7 @@ Categorical variable pairs are analyzed using cross-tabulation and Chi-Square te
 
 | Chi-Square Results |
 |---|
-| ![RegionvsBmi_category](Figures/"Region vs Bmi_category".jpg) |
+| ![RegionvsBmi_category](Figures/RegionvsBmi_category.jpg) |
 
 ---
 
